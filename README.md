@@ -1,3 +1,5 @@
+## 👾 A simple message encrypter to ensure secure and safe messaging. 👾
+
 Usage: `python mercury.py <options>`
 
 To generate keys:
