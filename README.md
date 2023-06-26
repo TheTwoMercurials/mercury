@@ -1,1 +1,1 @@
-Usage: python mercury.py <options>
+Usage: `python mercury.py <options>`
